@@ -1,1 +1,1 @@
-# Korea University Pharmacy Information Center Drug Search CLI Utility
+# Korea Pharmacy Information Center Drug Search CLI Utility
